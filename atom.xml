@@ -3,11 +3,11 @@
   <title>Myoung</title>
   <icon>https://www.gravatar.com/avatar/e9263d21c017d0b526a95e0a61c082a7</icon>
   <subtitle>生活明朗 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://myoungle.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://myoungle.top/"/>
   <updated>2023-10-27T03:51:13.546Z</updated>
-  <id>http://example.com/</id>
+  <id>http://myoungle.top/</id>
   
   <author>
     <name>Myoung</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/posts/0.html"/>
-    <id>http://example.com/posts/0.html</id>
+    <link href="http://myoungle.top/posts/0.html"/>
+    <id>http://myoungle.top/posts/0.html</id>
     <published>2023-10-27T03:06:28.039Z</published>
     <updated>2023-10-27T03:51:13.546Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://myoungle.top/posts/4a17b156.html"/>
+    <id>http://myoungle.top/posts/4a17b156.html</id>
     <published>2023-10-27T02:18:54.829Z</published>
     <updated>2023-10-27T03:51:13.546Z</updated>
     
