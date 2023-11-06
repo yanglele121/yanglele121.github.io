@@ -5,6 +5,7 @@ var fdata = {
 };
 //可通过 var fdataUser 替换默认值
 if (typeof fdataUser !== "undefined") {
+  console.log(fdata)
   for (var key in fdataUser) {
     if (fdataUser[key]) {
       fdata[key] = fdataUser[key];
